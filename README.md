@@ -17,13 +17,13 @@ Saya menggunakan beberapa kriteria untuk uji coba yakni:
 3. Menguji scope  Split data yakni 80:20, 70:30 dan 60:40 menggunakan hasil learning rate terbaik yakni 0.001 dan batch size terbaik yakni 16
 
 ## Hasil Uji Best Accuracy
-Grafik Loss Evaluation
+###Grafik Loss Evaluation
 ![](./loss-evaluation.png)
 
-Grafik Accuracy
+###Grafik Accuracy
 ![](./accuracy.png)
 
-Confusion Matrix
+###Confusion Matrix
 ![](./confusion-matrix.png)
 
 ## Table Model
