@@ -1,12 +1,12 @@
 # Project 1 Face Recognition
 
 ## Latar Belakang
-Manusia sering kali melakukan kesalahan dalam memposisikan diri, dimana seharusnya dia boleh masuk pada tempat tertentu atau pun tidak boleh. Seperti halnya pada tempat sholat, gerbong komuter khusus perempuan, toilet, tempat konser dan lain sebagainya yang mana telah dibedakan menjadi laki-laki dan perempuan. Oleh sebab itu perlu adanya sistem untuk mengklasifikasikan jenis kelamin menggunakan fitur wajah yang memiliki tingkat akurasi yang baik.
+Manusia sering kali melakukan kesalahan dalam memposisikan diri, dimana seharusnya dia boleh masuk pada tempat tertentu atau pun tidak boleh. Seperti halnya pada tempat sholat, gerbong komuter khusus perempuan, toilet, tempat konser dan lain sebagainya yang mana telah dibedakan menjadi laki-laki dan perempuan. Oleh sebab itu perlu adanya sistem untuk mengklasifikasikan jenis kelamin menggunakan fitur wajah yang memiliki tingkat akurasi yang baik.<br/>
 ![](./face-recognition.png)
 
 ## Informasi Umum
 Dalam Repository ini saya mencoba implementasikan GoogleNet([paper](https://arxiv.org/abs/1409.4842v1)|[code](https://github.com/pytorch/vision/blob/6db1569c89094cf23f3bc41f79275c45e9fcb3f3/torchvision/models/googlenet.py#L62)) untuk klasifikasi jenis kelamin (gender) menggunakan datasets [CelebA](https://drive.google.com/drive/folders/1Pv4ItGpDrLQG833nZioU_7PUqrRGjIeY?usp=sharing).
-Contoh sampel gambarnya:
+Contoh sampel gambarnya:<br/>
 ![](./face-celeb-sample.png)
 
 
@@ -17,17 +17,13 @@ Saya menggunakan beberapa kriteria untuk uji coba yakni:
 3. Menguji scope  Split data yakni 80:20, 70:30 dan 60:40 menggunakan hasil learning rate terbaik yakni 0.001 dan batch size terbaik yakni 16
 
 ## Hasil Uji Best Accuracy
-Grafik Loss Evaluation
-<img
-  src="/loss-evaluation.png"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+Grafik Loss Evaluation<br/>
+![](./loss-evaluation.png)
 
-Grafik Accuracy
+Grafik Accuracy<br/>
 ![](./accuracy.png)
 
-Confusion Matrix
+Confusion Matrix<br/>
 ![](./confusion-matrix.png)
 
 ## Table Model
