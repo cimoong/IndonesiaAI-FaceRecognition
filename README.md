@@ -18,7 +18,7 @@ Saya menggunakan beberapa kriteria untuk uji coba yakni:
 
 ## Hasil Uji Best Accuracy
 Grafik Loss Evaluation
-![](./loss-evaluation.png)
+[[./loss-evaluation.png]]
 
 Grafik Accuracy
 ![](./accuracy.png)
