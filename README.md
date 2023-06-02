@@ -46,4 +46,4 @@ Confusion Matrix<br/>
 - Batch_size : Semakin besar, semakin cepat proses training, namun loss function semakin besar
 - epoch : Semakin banyak semakin bisa untuk belajar atau training, namun ketika tidak ada perubahan pada akurasi tiap epoch nya, maka besar epoch tidak terlalu berimbas pada model
 - split training test 80:20; 70:30; dan 60:40; : Tidak memberikan pengaruh yang signifikan pada akurasi model
-- Best parameter : parameter terbaik yang mendapatkan akurasi paling tinggi adalah learning rate 0.001, split data 80:20, batch size: 16 dan epoch 20 mendapatkan akurasi paling tinggi sebesar $${\color{red}**0.9589**}$$.
+- Best parameter : parameter terbaik yang mendapatkan akurasi paling tinggi adalah learning rate 0.001, split data 80:20, batch size: 16 dan epoch 20 mendapatkan akurasi paling tinggi sebesar **0.9589**.
