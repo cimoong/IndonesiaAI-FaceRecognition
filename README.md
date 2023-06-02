@@ -18,7 +18,11 @@ Saya menggunakan beberapa kriteria untuk uji coba yakni:
 
 ## Hasil Uji Best Accuracy
 Grafik Loss Evaluation
-[[loss-evaluation.png]]
+<img
+  src="/loss-evaluation.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 Grafik Accuracy
 ![](./accuracy.png)
