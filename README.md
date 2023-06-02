@@ -5,7 +5,7 @@ Manusia sering kali melakukan kesalahan dalam memposisikan diri, dimana seharusn
 ![](./face-recognition.png)
 
 ## Informasi Umum
-Dalam Repository ini saya mencoba implementasikan GoogleNet([paper](https://arxiv.org/abs/1409.4842v1)|[code](https://github.com/pytorch/vision/blob/6db1569c89094cf23f3bc41f79275c45e9fcb3f3/torchvision/models/googlenet.py#L62)) untuk klasifikasi jenis kelamin (gender) menggunakan datasets [CelebA](https://drive.google.com/drive/folders/1Pv4ItGpDrLQG833nZioU_7PUqrRGjIeY?usp=sharing).
+Dalam Repository ini saya mencoba implementasikan GoogleNet([paper](https://arxiv.org/abs/1409.4842v1)|[code](https://github.com/pytorch/vision/blob/6db1569c89094cf23f3bc41f79275c45e9fcb3f3/torchvision/models/googlenet.py#L62)) untuk klasifikasi jenis kelamin (gender) menggunakan datasets [CelebA](https://drive.google.com/drive/folders/1Pv4ItGpDrLQG833nZioU_7PUqrRGjIeY?usp=sharing).<br/>
 Contoh sampel gambarnya:<br/>
 ![](./face-celeb-sample.png)
 
