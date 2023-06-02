@@ -26,7 +26,7 @@ Grafik Accuracy<br/>
 Confusion Matrix<br/>
 ![](./confusion-matrix.png)
 
-## Table Model
+## Table Hasil Uji
 | Test Case | Learning rate | Epoch | Split data | Batch size | Accuracy |
 | --- | --- | --- | --- | --- | --- |
 | Learning rate 0.001 | 0.001 | 5 | 80:20 | 32 | 0.9016 |
@@ -36,7 +36,7 @@ Confusion Matrix<br/>
 | Batch_size 32 | 0.001 | 5 | 80:20 | 32 | 0.8225 |
 | Batch_size 64 | 0.001 | 5 | 80:20 | 64 | 0.8478 |
 | Split Data 80:20 | 0.001 | 20 | 80:20 | 16 | **0.9589** |
-| Split Data 70:30 | 0.001 | 20 | 70:30 | 16 | 0.9452 <br/>(stop in 19 epoch) |
+| Split Data 70:30 | 0.001 | 20 | 70:30 | 16 | 0.9452<br/>(stop in 19 epoch) |
 | Split Data 60:40 | 0.001 | 20 | 60:40 | 16 | 0.9493 |
 
 
